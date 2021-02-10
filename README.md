@@ -8,7 +8,9 @@ When you download a sample from Splice, the .wav file is placed in a directory t
 You can add this folder to your "Places" view in Ableton;<br/>
 But the levels-deep folder structure makes browsing them painful.<br/>
 And you can't move / reorganize the files without causing problems for Splice desktop app.<br/>
-<img src="Images/Splice samples folder.png" >
+<br/>
+<img src="Images/Splice samples folder.PNG" width="500">
+<br/>
 I suspect that what most people are doing in this situation is to make copies of the .wav files to a different directory, that they can organize how they like.<br/>
 But why spend several minutes performing this task, when I can spend several hours automating it?!<br/>
 <br/>
@@ -24,6 +26,9 @@ And it won't cause the amount of disk space you're using to double, like copying
 To use the script, update the folder paths in the code to the paths you are using on your machine.<br/>
 Run it once to create hard links for everything that's currently in your Splice samples folder.<br/>
 Whenever you download new samples from Splice, run it again to create hard links for the new samples.<br/>
+<img src="Images/New sample in Splice.jpg" width="500">
+<img src="Images/Running script.PNG" width="500">
+<img src="Images/New sample in Ableton.jpg" width="500">
 <br/>
 This should run on any Windows PC.<br/>
 I'm not sure about Macs;<br/>
