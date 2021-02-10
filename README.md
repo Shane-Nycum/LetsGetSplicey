@@ -26,6 +26,7 @@ And it won't cause the amount of disk space you're using to double, like copying
 To use the script, update the folder paths in the code to the paths you are using on your machine.<br/>
 Run it once to create hard links for everything that's currently in your Splice samples folder.<br/>
 Whenever you download new samples from Splice, run it again to create hard links for the new samples.<br/>
+<br/>
 <img src="Images/New sample in Splice.jpg" width="500">
 <img src="Images/Running script.PNG" width="500">
 <img src="Images/New sample in Ableton.jpg" width="500">
