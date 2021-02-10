@@ -10,7 +10,7 @@ But the levels-deep folder structure makes browsing them painful.<br/>
 And you can't move / reorganize the files without causing problems for Splice desktop app.<br/>
 <br/>
 I suspect that what most people are doing in this situation is to make copies of the .wav files to a different directory, that they can organize how they like.<br/>
-But I say, why spend several minutes performing this task, when I can spend several hours automating it?!<br/>
+But why spend several minutes performing this task, when I can spend several hours automating it?!<br/>
 <br/>
 This script will do a few nice things for you:<br/>
 >1) Scan your Splice samples folder, and compare its contents to a second folder (referred to here onwards as your "Ableton samples folder")<br/>
