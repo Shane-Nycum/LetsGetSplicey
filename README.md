@@ -29,6 +29,6 @@ This should run on any Windows PC.<br/>
 I'm not sure about Macs;<br/>
 There's a new-ish PowerShell environment out for Macs that runs on .NET core, you could try using that.<br/>
 I'd be curious to hear how it goes.<br/>
-(Also if you're savvy and want to convert this to zsh or something, feel free to post it.)<br/>
+(Also if you want to convert this to zsh or something, feel free to post it.)<br/>
 <br/>
 Hope this helps someone out there. Godspeed!<br/>
