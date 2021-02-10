@@ -13,9 +13,6 @@ I suspect that what most people are doing in this situation is to make copies of
 But I say, why spend several minutes performing this task, when I can spend several hours automating it?!<br/>
 <br/>
 This script will do a few nice things for you:<br/>
-  1) Scan your Splice samples folder, and compare its contents to a second folder (referred to here onwards as your "Ableton samples folder")<br/>
-  2) Copy any file that is under your Splice samples folder, but not found anywhere under your Ableton samples folder, to your Ableton samples folder at root-level.<br/>
-  3) Except that the copy is not really a copy - it's a hard link (google it)<br/>
 <br/>
 The hard link is a pointer of sorts, to the same file on your disk as the file in your Splice samples folder.<br/>
 It behaves like any other file - you can audtion it, import it into your project, rename it, whatever.<br/>
