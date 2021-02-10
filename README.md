@@ -6,7 +6,7 @@ But I personally prefer being able to browse and audition them directly in Ablet
 <br/>
 When you download a sample from Splice, the .wav file is placed in a directory that's 3 or 4 levels deep in your Splice samples folder.<br/>
 You can add this folder to your "Places" view in Ableton;<br/>
-But the levels-deep folder structure makes browsing them painful.<br/>
+But the archane, levels-deep folder structure makes browsing them painful.<br/>
 And you can't move / reorganize the files without causing problems for Splice desktop app.<br/>
 <br/>
 <img src="Images/Splice samples folder.PNG" width="500">
