@@ -1,4 +1,4 @@
-# SpliceSampleHelper
+# Splice Sample Helper
 
 This is a PowerShell script that I wrote to improve my workflow using Splice + Ableton.<br/>
 The Splice desktop app is nice to use and browse your samples;<br/>
