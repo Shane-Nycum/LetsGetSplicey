@@ -20,7 +20,7 @@ This script will do a few nice things for you:<br/>
 >3) Except that the copy is not really a copy - it's a hard link (google it)<br/>
 <br/>
 The hard link is a pointer of sorts, to the same file on your disk as the file in your Splice samples folder.<br/>
-For most intents and purposes, it behaves like any other file - you can audtion it, import it into your project, rename it, whatever.<br/>
+For all intents and purposes, it behaves like any other file - you can audtion it, import it into your project, rename it, whatever.<br/>
 And it won't cause the amount of disk space you're using to double, like copying the file would.<br/>
 <br/>
 To use the script, update the folder paths in the code to the paths you are using on your machine.<br/>
