@@ -31,7 +31,7 @@ Whenever you download new samples from Splice, run it again to create hard links
 <img src="Images/Running script.PNG" width="500">
 <img src="Images/New sample in Ableton.jpg" width="500">
 <br/>
-This should run on any Windows PC.<br/>
+This should run on any Windows PC; and I'd imagine it would work fine with DAWs other than Ableton as well.<br/>
 I'm not sure about Macs;<br/>
 There's a new-ish PowerShell environment out for Macs that runs on .NET core, you could try using that.<br/>
 I'd be curious to hear how it goes.<br/>
