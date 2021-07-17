@@ -1,6 +1,6 @@
 #___________________________________________________________________________________________________
 #
-# Welcome to Splice Sample Helper!
+# ~~ Let's Get Splicey ~~
 #
 # This script creates hard links to the samples in your Splice folder, in a folder that you specify.
 # The hardlink files behave like a copy of the file for all intents and purposes; 
@@ -53,7 +53,7 @@ $linkedSamplesFolder = "C:\Music\SpliceHardlinks"
 Write-Host `n
 Write-Host "#############################################"
 Write-Host "#                                           #"
-Write-Host "#     Welcome to Splice Sample Helper!      #"
+Write-Host "#         ~~ Let's Get Splicey ~~           #"
 Write-Host "#                                           #"
 Write-Host "#############################################"
 Write-Host `n
